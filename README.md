@@ -1,5 +1,6 @@
 #Group Practice for Launch Challenge
 
+##DAY 1
 Answer the following questions:
 
 - How would you return all the recipes in your database?
